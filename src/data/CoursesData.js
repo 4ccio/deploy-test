@@ -11,11 +11,11 @@ import blockchain from "../assets/blockchain.jpg";
 import howCryptoMade from "../assets/cryptomade.jpg";
 import significantCrypto from "../assets/significantCrypto.jpg";
 
-import stockCards from "./StockMarket/StocksCards";
-import bondCards from "./StockMarket/BondsCards";
-import etfCards from "./StockMarket/EtfCards";
-import cryptoCards from "./Crypto/CryptoCards";
-import realEstateCards from "./RealEstate/RealEstateCards";
+import stockCards from "./StocksCards";
+import bondCards from "./BondsCards";
+import etfCards from "./EtfCards";
+import cryptoCards from "./CryptoCards";
+import realEstateCards from "./RealEstateCards";
 
 import tinkoff from "../assets/tinkoff.png";
 import sber from "../assets/sber.png";
